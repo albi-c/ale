@@ -2,4 +2,6 @@
 Simple text editor
 
 ## How to run?
-Just simple run main.py and it should work
+On Linux or MacOS run main.py or run installer and then write "ale" into terminal.
+
+On Windows, use main.exe.
